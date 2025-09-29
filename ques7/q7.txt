@@ -1,0 +1,5 @@
+A) Refer to a_b screenshot
+B) about 3.99s
+C) Refer to c screenshot, took around less than 10 seconds
+D) Refer to d_e screenshot
+E) It took really less time, few of the runs took less than 1 second
